@@ -1,0 +1,35 @@
+{
+  "name": "stay-with-me",
+  "version": "0.9.0",
+  "description": "A very light-weight utility to keep a computer awake",
+  "bin": {
+    "stay-with-me": "bin/index.js",
+    "swm": "bin/index.js"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "develop": "gulp develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myTerminal/stay-with-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myTerminal/stay-with-me/issues"
+  },
+  "homepage": "https://github.com/myTerminal/stay-with-me#readme",
+  "keywords": [
+    "sleep"
+  ],
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "license": "GPL-3.0",
+  "preferGlobal": "true",
+  "dependencies": {
+    "node-key-sender": "1.0.9"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-uglify": "3.0.0",
+    "gulp-watch-now": "0.9.1"
+  }
+}
