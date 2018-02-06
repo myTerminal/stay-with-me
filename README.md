@@ -1,7 +1,5 @@
 # stay-with-me
 
-A very light-weight utility to keep a computer awake
-
 [![npm version](https://badge.fury.io/js/stay-with-me.svg)](https://badge.fury.io/js/stay-with-me)
 [![npm downloads](https://img.shields.io/npm/dt/stay-with-me.svg)](https://www.npmjs.com/package/stay-with-me)  
 [![Build Status](https://travis-ci.org/myTerminal/stay-with-me.svg?branch=master)](https://travis-ci.org/myTerminal/stay-with-me)
@@ -15,6 +13,8 @@ A very light-weight utility to keep a computer awake
 [![peer Dependency Status](https://david-dm.org/myTerminal/stay-with-me/peer-status.svg)](https://david-dm.org/myTerminal/stay-with-me#info=peerDependencies)  
 [![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)  
 [![NPM](https://nodei.co/npm/stay-with-me.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/stay-with-me/)
+
+A very light-weight utility to keep a computer awake
 
 ## What is it?
 
