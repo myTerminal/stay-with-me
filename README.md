@@ -4,7 +4,6 @@
 [![npm downloads](https://img.shields.io/npm/dt/stay-with-me.svg)](https://www.npmjs.com/package/stay-with-me)  
 [![Build Status](https://travis-ci.org/myTerminal/stay-with-me.svg?branch=master)](https://travis-ci.org/myTerminal/stay-with-me)
 [![Code Climate](https://codeclimate.com/github/myTerminal/stay-with-me.png)](https://codeclimate.com/github/myTerminal/stay-with-me)
-[![Package Quality](http://npm.packagequality.com/shield/stay-with-me.svg)](http://packagequality.com/#?package=stay-with-me)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/stay-with-me.svg)](https://coveralls.io/r/myTerminal/stay-with-me?branch=master)
 [![bitHound Overall Score](https://www.bithound.io/github/myTerminal/stay-with-me/badges/score.svg)](https://www.bithound.io/github/myTerminal/stay-with-me)
 [![bitHound Code](https://www.bithound.io/github/myTerminal/stay-with-me/badges/code.svg)](https://www.bithound.io/github/myTerminal/stay-with-me)  
