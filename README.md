@@ -8,7 +8,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/stay-with-me.svg)](https://david-dm.org/myTerminal/stay-with-me)
 [![devDependency Status](https://david-dm.org/myTerminal/stay-with-me/dev-status.svg)](https://david-dm.org/myTerminal/stay-with-me#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/stay-with-me/peer-status.svg)](https://david-dm.org/myTerminal/stay-with-me#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)  
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/stay-with-me.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/stay-with-me/)
 
 A very light-weight utility to keep a computer awake
