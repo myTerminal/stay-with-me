@@ -1,14 +1,13 @@
 {
   "name": "stay-with-me",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "A very light-weight utility to keep a computer awake",
   "bin": {
     "stay-with-me": "bin/index.js",
     "swm": "bin/index.js"
   },
   "scripts": {
-    "gulp": "gulp",
-    "develop": "gulp develop"
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
@@ -28,11 +27,18 @@
     "node-key-sender": "1.0.9"
   },
   "devDependencies": {
-    "babel-core": "6.26.0",
-    "babel-preset-env": "1.6.1",
-    "gulp": "3.9.1",
-    "gulp-babel": "7.0.0",
-    "gulp-uglify": "3.0.0",
-    "gulp-watch-now": "0.9.1"
+    "babel-core": "6.26.3",
+    "babel-eslint": "10.0.1",
+    "babel-preset-env": "1.7.0",
+    "del": "3.0.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.0",
+    "eslint-plugin-react": "7.12.4",
+    "gulp": "4.0.0",
+    "gulp-babel": "7.0.1",
+    "gulp-eslint": "5.0.0",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-uglify": "3.0.1"
   }
 }

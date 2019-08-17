@@ -2,19 +2,22 @@
 
 /* global require setInterval setTimeout */
 
-var keySender = require('node-key-sender');
+const keySender = require('node-key-sender');
 
-var consoleLog = console.log,
+const consoleLog = console.log,
     interval = 30 * 1000,
-    changeState = function () {
+    changeState = () => {
         keySender.sendKey('scroll_lock');
     };
 
-console.log = function () {};
+console.log = () => {};
 
-setInterval(function () {
-    changeState();
-    setTimeout(changeState, 500);
-}, interval);
+setInterval(
+    () => {
+        changeState();
+        setTimeout(changeState, 500);
+    },
+    interval
+);
 
 consoleLog('I\'m right with you!');
