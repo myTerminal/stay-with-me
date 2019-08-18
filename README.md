@@ -37,7 +37,6 @@ You still need to keep the command line window running for *stay-with-me* to con
 
 In order to quit, press `Ctrl-C` or if you like to do it the rude way, close the command line window it is running in.
 
-## Dependencies
+## External Dependency
 
-* [node-key-sender](https://www.npmjs.com/package/node-key-sender)
 * Java runtime

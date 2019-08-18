@@ -1,6 +1,6 @@
 {
   "name": "stay-with-me",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "A very light-weight utility to keep a computer awake",
   "bin": {
     "stay-with-me": "bin/index.js",
