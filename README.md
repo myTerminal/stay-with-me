@@ -4,6 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dt/stay-with-me.svg)](https://www.npmjs.com/package/stay-with-me)  
 [![Build Status](https://travis-ci.org/myTerminal/stay-with-me.svg?branch=master)](https://travis-ci.org/myTerminal/stay-with-me)
 [![Code Climate](https://codeclimate.com/github/myTerminal/stay-with-me.png)](https://codeclimate.com/github/myTerminal/stay-with-me)
+[![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/stay-with-me.svg)](https://coveralls.io/r/myTerminal/stay-with-me?branch=master)  
 [![Dependency Status](https://david-dm.org/myTerminal/stay-with-me.svg)](https://david-dm.org/myTerminal/stay-with-me)
 [![devDependency Status](https://david-dm.org/myTerminal/stay-with-me/dev-status.svg)](https://david-dm.org/myTerminal/stay-with-me#info=devDependencies)
