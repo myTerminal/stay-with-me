@@ -1,2 +1,0 @@
-#!/usr/bin/env node
-"use strict";var keySender=require("node-key-sender"),consoleLog=console.log,interval=3e4,changeState=function(){keySender.sendKey("scroll_lock")};console.log=function(){},setInterval(function(){changeState(),setTimeout(changeState,500)},interval),consoleLog("I'm right with you!");
