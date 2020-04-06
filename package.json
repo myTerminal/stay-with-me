@@ -6,6 +6,9 @@
     "stay-with-me": "bin/index.js",
     "swm": "bin/index.js"
   },
+  "files": [
+    "/bin"
+  ],
   "scripts": {
     "gulp": "gulp"
   },
