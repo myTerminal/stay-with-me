@@ -7,6 +7,7 @@
 [![Code Climate](https://codeclimate.com/github/myTerminal/stay-with-me.png)](https://codeclimate.com/github/myTerminal/stay-with-me)
 [![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/stay-with-me.svg)](https://coveralls.io/r/myTerminal/stay-with-me?branch=master)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y5E5GL7)  
 [![NPM](https://nodei.co/npm/stay-with-me.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/stay-with-me/)
 
 A very light-weight utility to keep a computer awake
